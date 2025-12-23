@@ -1,3 +1,6 @@
 *.psd
 /inputs/*
-/output_final/*
+/output/*
+
+.DS_Store
+*.bash
